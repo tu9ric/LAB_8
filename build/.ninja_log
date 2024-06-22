@@ -1,0 +1,5 @@
+# ninja log v5
+67	596	7407059518064081	CMakeFiles/multifile.dir/hash_table.cpp.obj	e6d08e7418185f4a
+6	1730	7407151316776613	CMakeFiles/multifile.dir/main.cpp.obj	5c3bd39aea2ac515
+58	1937	7407059531485256	CMakeFiles/multifile.dir/options.cpp.obj	de6db8c48e577d43
+1730	1851	7407151317978575	multifile.exe	aad63f26ba86e418
